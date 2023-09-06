@@ -24,7 +24,8 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 ## **Files:**
 - **README.md** - This readme file.
-- **Home_Sales.ipynb** - The jupyter notebook running SparkSQL to determine key metrics about home sales data.
+- **Home_Sales.ipynb** - The jupyter notebook running SparkSQL to determine key metrics about home sales data. This notebook can be ran locally assuming SparkSQL is installed and working correctly on the local machine.
+- **Home_Sales_Colab.ipynb** - Does the same as "Home_Sales.ipynb" except this jupyter notebook can be ran using Google Colab and has a Google Colab link to it as well that you can use to run the notebook in the cloud.
 
 ## **Sources:**
 - The basis for the code in each of the "Alternative method" sections of the sparksql queries was worked out with the help of Steve Bennett.
