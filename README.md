@@ -27,3 +27,4 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 - **Home_Sales.ipynb** - The jupyter notebook running SparkSQL to determine key metrics about home sales data.
 
 ## **Sources:**
+- The basis for the code in each of the "Alternative method" sections of the sparksql queries was worked out with the help of Steve Bennett.
